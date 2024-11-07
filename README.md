@@ -7,24 +7,27 @@ A nuvem veio para facilitar o armazanamento de dados e a otimização de espaço
 necessitavam de muitos servidores.
 Existem vários tipos de nuvem:
 
-#Tipos de nuvem
+# Tipos de nuvem
 - Nuvem Privada
 - Nuvem Pública
 - Nuvem Hibrida
 - Multicloud
 
-#Nuvem privada
+# Nuvem privada
+
 A nuvem privada atende a necessidade de uma única empresa, não podendo ser utilizada dora dela.
 
-#Nuvem pública
+# Nuvem pública
+
 A nuvem pública pode ser acessada remotamente por diversas empresas, atendendo a necessidade de cada 
 uma.
 
-#Nuvem hibrida
+# Nuvem hibrida
+
 A nuvem hibrida une as nuvens privada e pública, fazendo com que uma empresa possa utilizar os recursos
 da nuvem pública, mas também possa utilizar os recurso da nuvem privada.
 
-#Multicloud
+# Multicloud
 A estratégia de multicloud envolve o uso de diferentes provedores de nuvem para atender às necessidades 
 específicas de uma organização, aproveitando o melhor de cada plataforma.
 
